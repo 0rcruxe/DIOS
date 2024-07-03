@@ -1,4 +1,4 @@
-DIOS (Dump In One Shot) Collection
+DIOS
 
 =======================================
 
